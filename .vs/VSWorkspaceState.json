@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiCatalogoJogos",
+    "\\ApiCatalogoJogos\\Controllers",
+    "\\ApiCatalogoJogos\\Controllers\\V1",
+    "\\ApiCatalogoJogos\\InputModel",
+    "\\ApiCatalogoJogos\\Properties",
+    "\\ApiCatalogoJogos\\Sevices",
+    "\\ApiCatalogoJogos\\ViewModel"
+  ],
+  "PreviewInSolutionExplorer": false
+}
